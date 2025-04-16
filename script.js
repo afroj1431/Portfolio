@@ -1,4 +1,4 @@
-// Basic GSAP animations
+
 gsap.from(".logo", { duration: 1, y: -50, opacity: 0, ease: "bounce" });
 gsap.from("nav a", {
   duration: 1,
